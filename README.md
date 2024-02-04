@@ -7,3 +7,5 @@ AutomataDotNet/Automata
 NicolaasWeideman
 /
 RegexStaticAnalysis
+
+Thank you to my mentors Dr. Dongyoon Lee and Zainab Aamir of Stony Brook University, and my partner Charlotte Li.

@@ -1,5 +1,7 @@
 # RegexResearch
 Summer Regex Research
+Please use the CSIRE poster to see the final results. 
+
 Used Python for file processing and Java dk.brics.automaton library to look for possible evil regex within Snort IDS rules. 
 
 Other repositories used:
